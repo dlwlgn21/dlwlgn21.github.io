@@ -7,21 +7,21 @@ title:
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "https://eazuooz.github.io"
+baseurl: "https://dlwlgn21.github.io"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: LeeJunJae
+username: dlwlgn21
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: portfolio
 # email: Your E-Mail address for the email button.
-email: eazuooz@gmail.com
+email: dlwlgn21@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: eazuooz
-youtube_username: yamyamcoding
+github_username: dlwlgn21
+youtube_username: dlwlgn
 #notion_username: yamyamcoding
 #codepen_username: exampleUser
 #dev_username: exampleUser
@@ -36,7 +36,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: 열정적이고 의욕적인 프로그래머로 실시간 컴퓨터 그래픽 기술을 통하여 게임개발을 해왔습니다. 저는 문제 해결 능력에 대한 강력한 기반을 가지고 있고 다양한 직무를 거치면서 의사 소통능력과 팀워크 능력이 뛰어나다고 생각합니다. 또한 팀에 주도성, 창의성을 제공하기 위해 노력하고 있습니다. 여기 <a class="highlight-link" href="https://github.com/eazuooz" target="_blank" rel="noreferrer"> Github </a> 에서 전체 포트폴리오를 확인하거나 <a class="highlight-link" href="https://drive.google.com/file/d/1WC10DSCsgvLHdhkoi-bAgOSjdYQVimLX/view?usp=sharing" target="_blank" rel="noreferrer"> 이력서 </a>를 볼수 있습니다. 또한 어려운 게임프로그래밍을 쉽게 배우고 대한민국에서도 다양한 게임 개발에 도움이 됬으면 하는 이로운 마음으로 교육용 <a class="highlight-link" href="https://www.youtube.com/channel/UCOgtkPoyC0VXhCs7Xk3jvjQ" target="_blank" rel="noreferrer"> 유튜브 </a> 채널도 운영하고 있습니다. 
+about_me_description: 이게 되려나. 과연. 오오오?. 여기 <a class="highlight-link" href="https://github.com/dlwlgn21" target="_blank" rel="noreferrer"> Github </a> 에서 전체 포트폴리오를 확인하거나 <a class="highlight-link" href="https://drive.google.com/file/d/1WC10DSCsgvLHdhkoi-bAgOSjdYQVimLX/view?usp=sharing" target="_blank" rel="noreferrer"> 이력서 </a>를 볼수 있습니다. 또한 어려운 게임프로그래밍을 쉽게 배우고 대한민국에서도 다양한 게임 개발에 도움이 됬으면 하는 이로운 마음으로 교육용 <a class="highlight-link" href="https://www.youtube.com/channel/UCOgtkPoyC0VXhCs7Xk3jvjQ" target="_blank" rel="noreferrer"> 유튜브 </a> 채널도 운영하고 있습니다. 
 
 # SKILLS SECTION
 # show_skills_card:
@@ -83,12 +83,12 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: <a class="highlight-link" href="https://github.com/eazuooz" target="_blank" rel="noreferrer"> Github </a>. 
+contact_description: <a class="highlight-link" href="https://github.com/dlwlgn21" target="_blank" rel="noreferrer"> Github </a>. 
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: eazuooz/eazuooz.github.io
+repository: dlwlgn21/dlwlgn21.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
