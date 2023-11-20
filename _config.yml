@@ -36,7 +36,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: 이게 되려나. 과연. 오오오?. 여기 <a class="highlight-link" href="https://github.com/dlwlgn21" target="_blank" rel="noreferrer"> Github </a> 에서 전체 포트폴리오를 확인하거나 <a class="highlight-link" href="https://drive.google.com/file/d/1WC10DSCsgvLHdhkoi-bAgOSjdYQVimLX/view?usp=sharing" target="_blank" rel="noreferrer"> 이력서 </a>를 볼수 있습니다. 또한 어려운 게임프로그래밍을 쉽게 배우고 대한민국에서도 다양한 게임 개발에 도움이 됬으면 하는 이로운 마음으로 교육용 <a class="highlight-link" href="https://www.youtube.com/channel/UCOgtkPoyC0VXhCs7Xk3jvjQ" target="_blank" rel="noreferrer"> 유튜브 </a> 채널도 운영하고 있습니다. 
+about_me_description: 안녕하세요. 개발자로 전직중인 이지후입니다. <a class="highlight-link" href="https://github.com/dlwlgn21" target="_blank" rel="noreferrer"> Github </a> 에서 전체 포트폴리오를 확인하거나 <a class="highlight-link" href="https://drive.google.com/file/d/1WC10DSCsgvLHdhkoi-bAgOSjdYQVimLX/view?usp=sharing" target="_blank" rel="noreferrer"> 자기소개서 </a>를 볼수 있습니다.
 
 # SKILLS SECTION
 # show_skills_card:
