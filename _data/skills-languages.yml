@@ -14,9 +14,3 @@
 - name: C#
   weight: 2
   
-- name: Glsl
-  weight: 2
-  
-- name: hlsl
-  weight: 2
-

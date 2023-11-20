@@ -6,16 +6,7 @@
 #   weight: 5
 
 - name: Git
-  weight: 5
-
-- name: TortoiseSVN
-  weight: 3
+  weight: 2
 
 - name: Visual Studio 
-  weight: 3
-
-- name: VS Code
-  weight: 3
-
-- name: Source Tree
-  weight: 2
+  weight: 4
