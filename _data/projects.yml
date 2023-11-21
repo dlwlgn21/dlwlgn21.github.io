@@ -16,8 +16,6 @@
 - name: 카드 짝 맞추기 게임(Direct2D)
   descr: "Direct2D로 카드 짝 맞추기 게임을 만들었습니다. 총 3개 스테이지가 있습니다."
   git: https://github.com/dlwlgn21/CardGame
-  demo: https://youtu.be/8lP2S5Z1PkA
-  #Build: https://drive.google.com/file/d/1O1oCTjpXczy2vTgu_qMrqYEWyzUiPTss/view?usp=sharing
   tags:
     - tag: C++
     - tag: winAPI
@@ -26,7 +24,6 @@
 - name: 벌레잡기 게임(Direct2D)
   descr: "Direct2D로 벌레잡기 게임을 만들었습니다."
   git: https://github.com/dlwlgn21/SimpleBuggyHouse
-  demo: https://www.youtube.com/watch?v=m6Gt65MriYw
   tags:
     - tag: C++
     - tag: winAPI
@@ -35,7 +32,7 @@
 - name: 뱀파이어서바이버즈 모작(winAPI)
   descr: "win32API을 이용하여 뱀파이어서바이버즈를 모작했습니다."
   git: https://github.com/dlwlgn21/VampireSuvivorsProject
-  demo: https://www.youtube.com/watch?v=9pA_mgLUzec
+  demo: https://youtu.be/cQJZKeBYRaA
   tags:
     - tag: C++
     - tag: winAPI
@@ -44,47 +41,9 @@
 - name: 뱀서류 횡스크롤 자작 게임(DirectX11)
   descr: "DirectX11을 이용하여 자작게임을 만들었습니다."
   git: https://github.com/dlwlgn21/DirectExperiment
-  demo: https://www.youtube.com/watch?v=9pA_mgLUzec
+  demo: https://youtu.be/2zxUs28oXxU
   tags:
     - tag: C++
     - tag: winAPI
     - tag: DirectX11
-    
-- name: MegamanX6 Copy
-  descr: "Win32 Api 사용한 자체 엔진 제작 및 메가맨X6 게임 모작(Copy)"
-  git: https://github.com/eazuooz/WindowsAPI_Portfolio
-  demo: https://www.youtube.com/watch?v=bxvlhTq5BZI
-  tags:
-    - tag: C++
-    - tag: DirectX11
-    - tag: HLSL
-    - tag: STL
     - tag: FMOD
-    - tag: WinAPI
-    - tag: FontWrapper
-            
-- name: YamYam Engine
-  descr: "OpenGL, SDL을 활용하여 렌더링 엔진 개발(개인 프로젝트)"
-  git: https://github.com/eazuooz/YamYamEngine_OpenGL
-  tags:
-    - tag: C++
-    - tag: OpenGL
-    - tag: GLSL
-    - tag: SDL
-    - tag: FMOD
-    - tag: Assimp
-    - tag: SOIL
-    
-- name: Chat TCP
-  descr: "TCP통신을 QT 라이브러리를 사용하여 만든 채팅 프로그램"
-  demo : https://www.youtube.com/watch?v=1bweL14hUNo&t=1s
-  tags:
-    - tag: C++
-    - tag: QT
-    
-- name: Chat UDP
-  descr: "UDP통신을 QT 라이브러리를 사용하여 만든 채팅 프로그램"
-  demo : https://www.youtube.com/watch?v=x4I2msHsUsU
-  tags:
-    - tag: C++
-    - tag: QT
