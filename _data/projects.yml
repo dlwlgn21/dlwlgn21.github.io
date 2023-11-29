@@ -58,7 +58,6 @@
 
 - name: 3D 리듬게임 포트폴리오(Unity)
   descr: "블라블라블라"
-  git: https://github.com/dlwlgn21/3DGamePortfolio
   tags:
     - tag: C#
     - tag: Unity
