@@ -6,19 +6,7 @@
 #   weight: 5
 
 - name: Unity
-  weight: 5
-
-- name: QT
   weight: 3
-
-- name: SDL
-  weight: 4
-
-- name: ImGui
-  weight: 4
-  
-- name: OpenGL
-  weight: 2
   
 - name: Directx11
-  weight: 2
+  weight: 3

@@ -47,3 +47,19 @@
     - tag: winAPI
     - tag: DirectX11
     - tag: FMOD
+
+- name: 3D 게임 포트폴리오(DirectX11)
+  descr: "DirectX11을 이용하여 자작게임을 만들었습니다."
+  git: https://github.com/dlwlgn21/3DGamePortfolio
+  tags:
+    - tag: C++
+    - tag: winAPI
+    - tag: DirectX11
+
+    - name: 3D 게임 포트폴리오(DirectX11)
+  descr: "DirectX11을 이용하여 자작게임을 만들었습니다."
+  git: https://github.com/dlwlgn21/3DGamePortfolio
+  tags:
+    - tag: C++
+    - tag: winAPI
+    - tag: DirectX11
