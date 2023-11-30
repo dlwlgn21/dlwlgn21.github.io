@@ -35,10 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: 안녕하세요. 
-라틴댄서에서 개발자로 전직을 희망하는 이지후입니다.
-<a class="highlight-link" href="https://github.com/dlwlgn21" target="_blank" rel="noreferrer"> Github </a> 에서 전체 포트폴리오를 확인하거나
-<a class="highlight-link" href="https://drive.google.com/file/d/1kH0maJ6CLsmdfPNR3zjjoegLkmjLcvuk/view?usp=sharing" target="_blank" rel="noreferrer"> 자기소개서 </a>를 볼수 있습니다.
+about_me_description: 안녕하세요. 라틴댄서에서 개발자로 전직을 희망하는 이지후입니다. 스크롤을 내려서 전체 작업물을 확인해보시거나, <a class="highlight-link" href="https://drive.google.com/file/d/1kH0maJ6CLsmdfPNR3zjjoegLkmjLcvuk/view?usp=sharing" target="_blank" rel="noreferrer">자기소개서</a>를 볼수 있습니다.
 
 # SKILLS SECTION
 # show_skills_card:
