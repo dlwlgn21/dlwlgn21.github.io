@@ -15,7 +15,7 @@
 
 - name: 2D 자작 액션플랫포머 게임(Unity)
   descr: "Unity2D 자작 포트폴리오입니다."
-  demo : https://youtu.be/k3Z8y4YoBXA
+  demo : https://youtu.be/fvxx-NCpCcg
   git: https://github.com/dlwlgn21/Unity2DPortfolio
   tags:
     - tag: C#
