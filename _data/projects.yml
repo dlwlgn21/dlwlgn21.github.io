@@ -13,6 +13,14 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: 2D 자작 액션플랫포머 게임(Unity)
+  descr: "Unity2D 자작 포트폴리오입니다."
+  demo : https://youtu.be/k3Z8y4YoBXA
+  git: https://github.com/dlwlgn21/Unity2DPortfolio
+  tags:
+    - tag: C#
+    - tag: Unity
+
 - name: 카드 짝 맞추기 게임(Direct2D)
   descr: "Direct2D로 카드 짝 맞추기 게임을 만들었습니다. 총 3개 스테이지가 있습니다."
   git: https://github.com/dlwlgn21/CardGame
