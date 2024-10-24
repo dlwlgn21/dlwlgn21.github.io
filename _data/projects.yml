@@ -21,6 +21,16 @@
     - tag: C#
     - tag: Unity
 
+- name: 게임서버 공부(Unity, .NetFramework)
+  descr: "게임서버 공부를 위해 Rookiss님 강의를 수강하였습니다."
+  git: https://github.com/dlwlgn21/GameServer
+  git: https://github.com/dlwlgn21/RookissServer
+  tags:
+    - tag: C#
+    - tag: Server
+    - tag: .NetFramework
+    - tag: Unity
+
 - name: 카드 짝 맞추기 게임(Direct2D)
   descr: "Direct2D로 카드 짝 맞추기 게임을 만들었습니다. 총 3개 스테이지가 있습니다."
   git: https://github.com/dlwlgn21/CardGame
