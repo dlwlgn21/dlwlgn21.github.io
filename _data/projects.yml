@@ -20,16 +20,39 @@
   tags:
     - tag: C#
     - tag: Unity
+- name: 자료구조 및 알고리즘 공부 기록용.
+  descr: "자료구조 및 알고리즘 문제풀기 기록을 남기고 있습니다."
+  git: https://github.com/dlwlgn21/SolvedAlgorithmProblems
+  tags:
+    - tag: C++
+    - tag: Algorithm
+    - tag: DataStructure
 
 - name: 게임서버 공부(Unity, .NetFramework)
-  descr: "게임서버 공부를 위해 Rookiss님 강의를 수강하였습니다."
+  descr: "게임서버 공부를 위해 Rookiss 클론코딩."
   git: https://github.com/dlwlgn21/GameServer
-  git: https://github.com/dlwlgn21/RookissServer
   tags:
     - tag: C#
     - tag: Server
     - tag: .NetFramework
     - tag: Unity
+    - name: 뱀파이어서바이버즈 모작(winAPI)
+    descr: "win32API을 이용하여 뱀파이어서바이버즈를 모작했습니다."
+    git: https://github.com/dlwlgn21/VampireSuvivorsProject
+    demo: https://youtu.be/cQJZKeBYRaA
+    tags:
+      - tag: C++
+      - tag: winAPI
+
+  - name: 뱀서류 횡스크롤 자작 게임(DirectX11)
+    descr: "DirectX11을 이용하여 자작게임을 만들었습니다."
+    git: https://github.com/dlwlgn21/DirectExperiment
+    demo: https://youtu.be/2zxUs28oXxU
+    tags:
+      - tag: C++
+      - tag: winAPI
+      - tag: DirectX11
+      - tag: FMOD
 
 - name: 카드 짝 맞추기 게임(Direct2D)
   descr: "Direct2D로 카드 짝 맞추기 게임을 만들었습니다. 총 3개 스테이지가 있습니다."
@@ -47,27 +70,8 @@
     - tag: winAPI
     - tag: Direct2D
 
-- name: 뱀파이어서바이버즈 모작(winAPI)
-  descr: "win32API을 이용하여 뱀파이어서바이버즈를 모작했습니다."
-  git: https://github.com/dlwlgn21/VampireSuvivorsProject
-  demo: https://youtu.be/cQJZKeBYRaA
-  tags:
-    - tag: C++
-    - tag: winAPI
-    
-
-- name: 뱀서류 횡스크롤 자작 게임(DirectX11)
-  descr: "DirectX11을 이용하여 자작게임을 만들었습니다."
-  git: https://github.com/dlwlgn21/DirectExperiment
-  demo: https://youtu.be/2zxUs28oXxU
-  tags:
-    - tag: C++
-    - tag: winAPI
-    - tag: DirectX11
-    - tag: FMOD
-
 - name: 3D 게임(공부용, 자작)(DirectX11)
-  descr: "DirectX11을 3D 게임을 만들고 있습니다."
+  descr: "DirectX11 3D 연습용."
   git: https://github.com/dlwlgn21/3DGamePortfolio
   tags:
     - tag: C++
