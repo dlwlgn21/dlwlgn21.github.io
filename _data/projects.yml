@@ -13,6 +13,14 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: VR 호박 디펜스 게임(Unity)
+  descr: "Unity3D VR 게임 포트폴리오입니다."
+  demo : https://youtu.be/poRRxCEbFW4
+  git: https://github.com/dlwlgn21/VRGame
+  tags:
+    - tag: C#
+    - tag: Unity
+
 - name: 2D 자작 액션플랫포머 게임(Unity)
   descr: "Unity2D 자작 포트폴리오입니다."
   demo : https://youtu.be/fvxx-NCpCcg
