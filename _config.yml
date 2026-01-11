@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: 안녕하세요. 라틴댄서에서 개발자로 전직을 희망하는 이지후입니다.스크롤을 내려서 전체 작업물을 확인해보시거나, <a class="highlight-link" href="https://drive.google.com/file/d/1Ul5Y9qXWLimKUyik1GBiY_rwOaiMtkmJ/view?usp=sharing" target="_blank" rel="noreferrer">자기소개서</a>를 볼수 있습니다.
+about_me_description: 안녕하세요. 게임 개발자로 전직을 희망하는 이지후입니다.스크롤을 내려서 전체 작업물을 확인해보시거나, <a class="highlight-link" href="https://drive.google.com/file/d/1_jVxCnxJdmB3C4ESL0tDcV4HIvSKnvV6/view?usp=sharing" target="_blank" rel="noreferrer">자기소개서</a>를 볼수 있습니다.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -54,7 +54,7 @@ show_timeline_card: false
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://drive.google.com/file/d/1Ul5Y9qXWLimKUyik1GBiY_rwOaiMtkmJ/view?usp=sharing
+cv_download_link: https://drive.google.com/file/d/1_jVxCnxJdmB3C4ESL0tDcV4HIvSKnvV6/view?usp=sharing
 # PROJECTS SECTION
 # show_projects_card:
 # > setting this to true, will display the Projects section
