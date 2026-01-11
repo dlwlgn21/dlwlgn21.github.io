@@ -21,6 +21,13 @@
     - tag: C#
     - tag: Unity
 
+- name: 실시간 드론 관제 시뮬레이션(Unity)
+  descr: "실시간 드론 관제 시뮬레이션 작업 내용입니다."
+  demo : https://drive.google.com/drive/folders/1274WdbZCdLYR6Xz8PjSMO3XHlc2HdUoh
+  tags:
+    - tag: C#
+    - tag: Unity
+
 - name: 2D 자작 액션플랫포머 게임(Unity)
   descr: "Unity2D 자작 포트폴리오입니다."
   demo : https://youtu.be/fvxx-NCpCcg
