@@ -13,14 +13,6 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: VR 호박 디펜스 게임(Unity)
-  descr: "Unity3D VR 게임 포트폴리오입니다."
-  demo : https://youtu.be/poRRxCEbFW4
-  git: https://github.com/dlwlgn21/VRGame
-  tags:
-    - tag: C#
-    - tag: Unity
-
 - name: 실시간 드론 관제 시뮬레이션(Unity)
   descr: "실시간 드론 관제 시뮬레이션 작업 내용입니다."
   demo : https://drive.google.com/drive/folders/1274WdbZCdLYR6Xz8PjSMO3XHlc2HdUoh
@@ -32,6 +24,14 @@
   descr: "Unity2D 자작 포트폴리오입니다."
   demo : https://youtu.be/fvxx-NCpCcg
   git: https://github.com/dlwlgn21/Unity2DPortfolio
+  tags:
+    - tag: C#
+    - tag: Unity
+
+- name: VR 호박 디펜스 게임(Unity)
+  descr: "Unity3D VR 게임 포트폴리오입니다."
+  demo : https://youtu.be/poRRxCEbFW4
+  git: https://github.com/dlwlgn21/VRGame
   tags:
     - tag: C#
     - tag: Unity
