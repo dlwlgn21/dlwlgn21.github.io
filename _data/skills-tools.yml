@@ -5,8 +5,11 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
-  weight: 2
-
 - name: Visual Studio 
   weight: 4
+
+- name: PlasticSCM
+  weight: 4
+
+- name: Git
+  weight: 2

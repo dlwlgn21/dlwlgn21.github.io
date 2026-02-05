@@ -28,31 +28,6 @@
     - tag: C#
     - tag: Unity
 
-- name: VR 호박 디펜스 게임(Unity)
-  descr: "Unity3D VR 게임 포트폴리오입니다."
-  demo : https://youtu.be/poRRxCEbFW4
-  git: https://github.com/dlwlgn21/VRGame
-  tags:
-    - tag: C#
-    - tag: Unity
-
-- name: 자료구조 및 알고리즘 공부 기록용.
-  descr: "자료구조 및 알고리즘 문제풀기 기록을 남기고 있습니다."
-  git: https://github.com/dlwlgn21/SolvedAlgorithmProblems
-  tags:
-    - tag: C++
-    - tag: Algorithm
-    - tag: DataStructure
-
-- name: 게임서버 공부(Unity, .NetFramework)
-  descr: "게임서버 공부를 위해 Rookiss 클론코딩."
-  git: https://github.com/dlwlgn21/GameServer
-  tags:
-    - tag: C#
-    - tag: Server
-    - tag: .NetFramework
-    - tag: Unity
-
 - name: 뱀파이어서바이버즈 모작(winAPI)
   descr: "win32API을 이용하여 뱀파이어서바이버즈를 모작했습니다."
   git: https://github.com/dlwlgn21/VampireSuvivorsProject
@@ -70,6 +45,23 @@
     - tag: winAPI
     - tag: DirectX11
     - tag: FMOD
+
+- name: 자료구조 및 알고리즘 공부 기록용.
+  descr: "자료구조 및 알고리즘 문제풀기 기록을 남기고 있습니다."
+  git: https://github.com/dlwlgn21/SolvedAlgorithmProblems
+  tags:
+    - tag: C++
+    - tag: Algorithm
+    - tag: DataStructure
+
+- name: 게임서버 공부(Unity, .NetFramework)
+  descr: "게임서버 공부를 위해 Rookiss 클론코딩."
+  git: https://github.com/dlwlgn21/GameServer
+  tags:
+    - tag: C#
+    - tag: Server
+    - tag: .NetFramework
+    - tag: Unity
 
 - name: 카드 짝 맞추기 게임(Direct2D)
   descr: "Direct2D로 카드 짝 맞추기 게임을 만들었습니다. 총 3개 스테이지가 있습니다."
